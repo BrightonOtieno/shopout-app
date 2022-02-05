@@ -14,7 +14,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "&m!cllpy_y5ei$#@$v5&ey$$k(701x9x*vqroi&ub0wan*$lj1"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1','localhost','shopout.herokuapp.com']
 
