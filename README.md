@@ -26,7 +26,7 @@ Live Demo can be viewed at https://shopout.herokuapp.com/#/
 # Download & Setup Instructions
 
 * 1 - Clone project: git clone 
-* 2 - cd proshop_django
+* 2 - cd shopout_django
 * 3 - Create virtual environment: virtualenv myenv
 * 4 - cd myenv
 * 5 - myenv\scripts\activate
