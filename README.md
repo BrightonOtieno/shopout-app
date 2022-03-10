@@ -25,7 +25,7 @@ Live Demo can be viewed at https://shopout.herokuapp.com/#/
 
 # Download & Setup Instructions
 
-* 1 - Clone project: git clone 
+* 1 - Clone project: git clone https://github.com/BrightonOtieno/shopout-app.git
 * 2 - cd shopout_django
 * 3 - Create virtual environment: virtualenv myenv
 * 4 - cd myenv
